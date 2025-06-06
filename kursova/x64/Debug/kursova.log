@@ -1,0 +1,9 @@
+﻿  MainMenuState.cpp
+D:\kursova_robota\kursova\External\SFML-3.0.0\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
+  (compiling source file 'MainMenuState.cpp')
+      D:\vs\VC\Tools\MSVC\14.43.34808\include\stdexcept(100,19):
+      see declaration of 'std::runtime_error'
+      D:\kursova_robota\kursova\External\SFML-3.0.0\include\SFML\System\Exception.hpp(41,23):
+      see declaration of 'sf::Exception'
+  
+  kursova.vcxproj -> D:\kursova_robota\kursova\x64\Debug\kursova.exe
